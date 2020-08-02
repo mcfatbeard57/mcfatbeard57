@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 - 📌 Scroll Down to see my Pinned Repositories.
 
 Connect me on:
+
 Email: harshgupta57100@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/harshgupta57100/
+
 Kaggle: https://www.kaggle.com/harshgupta57
+
 Note: Please do not spam on the above mentioned email/profiles.
