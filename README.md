@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate in Data Sciecne and Machine Learning Domains.
 - 📌 Scroll Down to see my Pinned Repositories.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcfatbeard57&show_icons=true&theme=solarized-dark)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcfatbeard57&show_icons=true&theme=solarized-dark&hide=contribs,issues)
 
 Connect me on:
