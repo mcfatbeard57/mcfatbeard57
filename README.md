@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate in Data Sciecne and Machine Learning Domains.
 - 📌 Scroll Down to see my Pinned Repositories.
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcfatbeard57)](https://github.com/anuraghazra/github-readme-stats)
+
 Connect me on:
 
 Email: harshgupta57100@gmail.com
