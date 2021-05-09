@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate in AI and Deep learning Domains as Image Detection, Audio and Video analysis
 - 📌 Scroll Down to see my Pinned Repositories.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcfatbeard57&show_icons=true&theme=solarized-dark&hide=contribs,issues)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcfatbeard57&show_icons=true&theme=prussian&hide=contribs,issues)
 
 Connect me on:
 
