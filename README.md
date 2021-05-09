@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 📌 Scroll Down to see my Pinned Repositories.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcfatbeard57)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcfatbeard57)](https://github.com/anuraghazra/github-readme-stats)
 
 Connect me on:
 
