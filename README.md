@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - 📌 Scroll Down to see my Pinned Repositories.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcfatbeard57&show_icons=true&theme=solarized-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcfatbeard57&hide=contribs,prs,issues)
 
 Connect me on:
 
