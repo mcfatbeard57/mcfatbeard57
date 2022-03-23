@@ -4,7 +4,7 @@
 **mcfatbeard57/mcfatbeard57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently workingas Data Scientist in Ericsson India Pvt. Ltd.
+- 🔭 I’m currently workingas Data Scientist in DCube Analytics.
 - 🌱 I’m currently working on Mask Detection using openCV and productionise in GCP
 - 👯 I’m looking to collaborate in AI and Deep learning Domains as Image Detection, Audio and Video analysis
 - 📌 Scroll Down to see my Pinned Repositories.
