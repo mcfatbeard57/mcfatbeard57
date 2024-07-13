@@ -10,10 +10,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcfatbeard57&show_icons=true&theme=prussian&hide=contribs,issues)
 
-Connect me on:
-
-Email: harshgupta57100@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/harshgupta57100/
-
-Note: Please do not spam on the above mentioned email/profiles.
